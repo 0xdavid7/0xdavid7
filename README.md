@@ -12,6 +12,6 @@
 - Experienced in developing on Bitcoin, Ethereum, Solana, and Cosmos.
 
 ## Contact 📪
-- Email: tranhuyducseven@gmail.com
+- Email: 0xdavid7@proton.me
 
 ## Looking forward to connecting with you! 
