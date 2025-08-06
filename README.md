@@ -11,6 +11,15 @@
 - Knowledgeable in Cryptography and Zero-Knowledge Proofs (ZKPs).
 - Experienced in developing on Bitcoin, Ethereum, Solana, and Cosmos.
 
+## Recent work
+- Built a Cosmos SDK-based chain enabling Bitcoin↔EVM messaging
+- Designed custom modules: Bitcoin validators, cross-chain messaging, ABCI lifecycle handling
+- Architected a secure vault supporting staking, redeeming, multisig, and HTLCs
+- Extended rust-bitcoin for flexible PSBT signing
+- Created WebAssembly + FFI bindings for Go/JS integration
+- Developed Axelar-inspired contracts for cross-chain message passing between Bitcoin, Cosmos, and EVM chains
+- Developed backend APIs, CLI tools, and testing frameworks for high-throughput workflows
+
 ## Contact 📪
 - Email: 0xdavid7@proton.me
 
