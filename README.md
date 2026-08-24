@@ -1,26 +1,29 @@
-# Hello there 👋
+# Hello there 👋 I'm David
 
-## My Name is David
-[<img alt="X (@0xdavid7)" src="https://img.shields.io/badge/%400xdavid7---?style=plastic&logo=x&logoColor=white&labelColor=black&color=black">](https://x.com/0xdavid7)
-[<img alt="Linked In (@0xdavid7)" src="https://img.shields.io/badge/%400xdavid7---?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2">](https://www.linkedin.com/in/0xdavid7)
+[![X](https://img.shields.io/badge/@0xdavid7-black?style=flat\&logo=x\&logoColor=white)](https://x.com/0xdavid7)
+[![LinkedIn](https://img.shields.io/badge/@0xdavid7-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/0xdavid7)
 
-## About Me 🦀
-- Blockchain Engineer with 3+ years of experience.
-- Specializing in Rust, Go, Solidity, and JavaScript.
-- Proficient in Databases, Operating Systems, and DevOps.
-- Knowledgeable in Cryptography and Zero-Knowledge Proofs (ZKPs).
-- Experienced in developing on Bitcoin, Ethereum, Solana, and Cosmos.
+### About Me 🦀
 
-## Recent work
-- Built a Cosmos SDK-based chain enabling Bitcoin↔EVM messaging
-- Designed custom modules: Bitcoin validators, cross-chain messaging, ABCI lifecycle handling
-- Architected a secure vault supporting staking, redeeming, multisig, and HTLCs
-- Extended rust-bitcoin for flexible PSBT signing
-- Created WebAssembly + FFI bindings for Go/JS integration
-- Developed Axelar-inspired contracts for cross-chain message passing between Bitcoin, Cosmos, and EVM chains
-- Developed backend APIs, CLI tools, and testing frameworks for high-throughput workflows
+* **Software & Blockchain Engineer** with 4+ years of experience
+* Building with **Rust, Go, Solidity & TypeScript**
+* Working across **Bitcoin, Ethereum, Solana & Cosmos**
+* Exploring **Cryptography, ZK, MPC & Distributed Systems**
 
-## Contact 📪
-- Email: 0xdavid7@proton.me
+### What I've Built 🚀
 
-## Looking forward to connecting with you! 
+* **Smart Wallets** — ERC-4337, EIP-7702, Paymaster & gasless transactions
+* **DeFi Vaults** — ERC-4626 lending, borrowing & yield strategies
+* **Bitcoin Interoperability** — Bitcoin ↔ Cosmos ↔ EVM cross-chain messaging
+* **Bitcoin Vaults** — Taproot, Schnorr, MuSig2, HTLCs & PSBT
+* **Blockchain Infrastructure** — Relayers, indexers, APIs, CLIs & developer tooling
+* **Multichain Wallets** — Bitcoin, Ethereum, TON & Gala wallet infrastructure
+* **Privacy & Identity** — ZK-SNARKs, DID & verifiable credentials
+
+### Building 🧪
+
+I'm building some interesting ideas here → **[Lumen](https://github.com/lumenwork)**
+
+### Contact 📪
+
+**[0xdavid7@proton.me](mailto:0xdavid7@proton.me)**
